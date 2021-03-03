@@ -8,7 +8,7 @@ The TSC will be responsible for all aspects of oversight relating to the Project
 * Coordinating the technical direction of the Project;
 * Approving project or system proposals (including, but not limited to, incubation,
   deprecation, and changes to a sub-project’s scope);
-* Organising sub-projects and removing sub-projects;
+* Organizing sub-projects and removing sub-projects;
 * Creating sub-committees or working groups to focus on cross-project technical
 issues and requirements;
 * Appointing representatives to work with other open source or open standards communities;
@@ -27,21 +27,21 @@ issues and requirements;
 
 Informal discussions occur in the tac channel of the [sigstore Slack](https://sigstore.slack.com).
 
-Use [Github Issues](https://github.com/sigstore/tac/issues) to request and discuss agenda items.
+Use [GitHub Issues](https://github.com/sigstore/tac/issues) to request and discuss agenda items.
 
 ## Meetings
 
 The TAC [meetings minutes](pending).
 
-Meetings are also recorded and posted to the [sigastore YouTube channel](pending).
+Meetings are also recorded and posted to the [sigstore YouTube channel](pending).
 
 ## Members
 
 | Name | Email | Organization |
 | --- | --- | --- |
 | Dan Lorenc | dlorenc@google.com | Google |
-| Bob Callaway | bcallaway@redhat.com | RedHat |
-| Luke Hinds | lhinds@redhat.com | RedHat |
+| Bob Callaway | bcallawa@redhat.com | Red Hat |
+| Luke Hinds | lhinds@redhat.com | Red Hat |
 
 ## Charter
 
