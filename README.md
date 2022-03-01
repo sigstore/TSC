@@ -3,7 +3,7 @@
 The sigstore Technical Advisory Council is responsible for technical oversight
 of sigstore's projects.
 
-The TSC will be responsible for all aspects of oversight relating to the Project:
+The TAC will be responsible for all aspects of oversight relating to the Project:
 
 * Coordinating the technical direction of the Project;
 * Approving project or system proposals (including, but not limited to, incubation,
@@ -18,7 +18,7 @@ issues and requirements;
   published in the CONTRIBUTING file) and coordinating with the series manager
   of the Project (as provided for in the Series Agreement, the “Series Manager”)
 * To resolve matters or concerns that may arise as set forth in Section 7 of the
-  technical charter.
+  [technical charter](https://github.com/sigstore/tac/blob/main/docs/sigstore%20Technical%20Charter%20%5BFINAL%5D.pdf).
 * Discussions, seeking consensus, and where necessary, voting on technical
   matters relating to the code base that affect multiple projects; and coordinating
   any marketing, events, or communications regarding the Project.
@@ -45,4 +45,4 @@ Meetings are also recorded and posted to the [sigstore YouTube channel](pending)
 
 ## Charter
 
-The TAC is chartered as of the docs/sigstore Technical Charter [FINAL].pdf
+The TAC is chartered as of the [docs/sigstore Technical Charter [FINAL].pdf](https://github.com/sigstore/tac/blob/main/docs/sigstore%20Technical%20Charter%20%5BFINAL%5D.pdf)
