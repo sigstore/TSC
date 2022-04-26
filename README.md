@@ -1,6 +1,6 @@
-# sigstore Technical Advisory Council (TAC)
+# sigstore Technical Advisory Council (TSC)
 
-The sigstore Technical Advisory Council is responsible for technical oversight
+The sigstore Technical Steering Commitee is responsible for technical oversight
 of sigstore's projects.
 
 The TAC will be responsible for all aspects of oversight relating to the Project:
@@ -25,13 +25,13 @@ issues and requirements;
 
 ## Get Involved
 
-Informal discussions occur in the tac channel of the [sigstore Slack](https://sigstore.slack.com).
+Informal discussions occur in the tsc channel of the [sigstore Slack](https://sigstore.slack.com).
 
 Use [GitHub Issues](https://github.com/sigstore/tac/issues) to request and discuss agenda items.
 
 ## Meetings
 
-The TAC [meetings minutes](pending).
+The TSC [meetings minutes](pending).
 
 Meetings are also recorded and posted to the [sigstore YouTube channel](pending).
 
@@ -39,8 +39,8 @@ Meetings are also recorded and posted to the [sigstore YouTube channel](pending)
 
 | Name | Email | Organization |
 | --- | --- | --- |
-| Dan Lorenc | dlorenc@google.com | Google |
-| Bob Callaway | bcallawa@redhat.com | Red Hat |
+| Dan Lorenc | dlorenc@google.com | Chain Guard |
+| Bob Callaway | bcallawa@redhat.com | Google |
 | Luke Hinds | lhinds@redhat.com | Red Hat |
 
 ## Charter
