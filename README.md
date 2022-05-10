@@ -31,7 +31,7 @@ Use [GitHub Issues](https://github.com/sigstore/tac/issues) to request and discu
 
 ## Meetings
 
-The TSC [meetings minutes](pending).
+The TSC [meetings minutes](https://docs.google.com/document/d/1yr7kib0jgmPbIM0nuNUa28_ur-Ze_pfhgCW9f78oL0I).
 
 Meetings are also recorded and posted to the [sigstore YouTube channel](pending).
 
