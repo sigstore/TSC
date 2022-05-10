@@ -1,9 +1,9 @@
-# sigstore Technical Advisory Council (TSC)
+# sigstore Technical Steering Committee (TSC)
 
-The sigstore Technical Steering Commitee is responsible for technical oversight
+The sigstore Technical Steering Committee is responsible for technical oversight
 of sigstore's projects.
 
-The TAC will be responsible for all aspects of oversight relating to the Project:
+The TSC will be responsible for all aspects of oversight relating to the Project:
 
 * Coordinating the technical direction of the Project;
 * Approving project or system proposals (including, but not limited to, incubation,
@@ -45,4 +45,4 @@ Meetings are also recorded and posted to the [sigstore YouTube channel](pending)
 
 ## Charter
 
-The TAC is chartered as of the [docs/sigstore Technical Charter [FINAL].pdf](https://github.com/sigstore/tac/blob/main/docs/sigstore%20Technical%20Charter%20%5BFINAL%5D.pdf)
+The TSC is chartered as of the [docs/sigstore Technical Charter [FINAL].pdf](https://github.com/sigstore/tac/blob/main/docs/sigstore%20Technical%20Charter%20%5BFINAL%5D.pdf)
