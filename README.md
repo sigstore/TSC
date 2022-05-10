@@ -39,7 +39,7 @@ Meetings are also recorded and posted to the [sigstore YouTube channel](pending)
 
 | Name | Email | Organization |
 | --- | --- | --- |
-| Dan Lorenc | dlorenc@google.com | Chain Guard |
+| Dan Lorenc | dlorenc@chainguard.dev | Chain Guard |
 | Bob Callaway | bcallawa@redhat.com | Google |
 | Luke Hinds | lhinds@redhat.com | Red Hat |
 
