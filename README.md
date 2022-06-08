@@ -40,7 +40,7 @@ Meetings are also recorded and posted to the [sigstore YouTube channel](pending)
 | Name | Email | Organization |
 | --- | --- | --- |
 | Dan Lorenc | dlorenc@chainguard.dev | Chain Guard |
-| Bob Callaway | bcallawa@redhat.com | Google |
+| Bob Callaway | bcallaway@google.com | Google |
 | Luke Hinds (TSC Chair) | lhinds@redhat.com | Red Hat |
 
 ## Charter
