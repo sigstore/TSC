@@ -18,7 +18,7 @@ issues and requirements;
   published in the CONTRIBUTING file) and coordinating with the series manager
   of the Project (as provided for in the Series Agreement, the “Series Manager”)
 * To resolve matters or concerns that may arise as set forth in Section 7 of the
-  [technical charter](https://github.com/sigstore/tac/blob/main/docs/sigstore%20Technical%20Charter%20%5BFINAL%5D.pdf).
+  [technical charter](https://github.com/sigstore/TSC/blob/main/docs/CHARTER.MD).
 * Discussions, seeking consensus, and where necessary, voting on technical
   matters relating to the code base that affect multiple projects; and coordinating
   any marketing, events, or communications regarding the Project.
@@ -45,4 +45,4 @@ Meetings are also recorded and posted to the [sigstore YouTube channel](https://
 
 ## Charter
 
-The TSC is chartered as of the [docs/sigstore Technical Charter [FINAL].pdf](https://github.com/sigstore/tac/blob/main/docs/sigstore%20Technical%20Charter%20%5BFINAL%5D.pdf)
+The TSC is chartered as of the [docs/sigstore Technical Charter [FINAL].pdf](https://github.com/sigstore/TSC/blob/main/docs/CHARTER.MD)
