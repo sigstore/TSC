@@ -45,4 +45,4 @@ Meetings are also recorded and posted to the [sigstore YouTube channel](https://
 
 ## Charter
 
-The TSC is chartered as of the [docs/sigstore Technical Charter [FINAL].pdf](https://github.com/sigstore/TSC/blob/main/docs/CHARTER.MD)
+The TSC is techincal charter is available here [docs/CHARTER.MD](https://github.com/sigstore/TSC/blob/main/docs/CHARTER.MD)
