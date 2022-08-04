@@ -42,6 +42,8 @@ Meetings are also recorded and posted to the [sigstore YouTube channel](https://
 | Dan Lorenc | dlorenc@chainguard.dev | Chain Guard |
 | Bob Callaway | bcallaway@google.com | Google |
 | Luke Hinds (TSC Chair) | lhinds@redhat.com | Red Hat |
+| Trevor Rosen | trevrosen@github.com | GitHub |
+| Santiago Torres-Arias | santiagotorres@purdue.edu | Purdue University |
 
 ## Charter
 
