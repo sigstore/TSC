@@ -3,11 +3,36 @@
 When contributing to this repository, please first discuss the change you wish
 to make via an [issue](https://github.com/sigstore/TSC/issues).
 
+# Technical Steering Committee
+
 ## Current TSC Members
 
-TSC members are listed in the TSC repository [README.md](README.md#members)
+TSC members are listed in the TSC repository [README.md](README.md#members). Note that TSC membership lies with the individual person, not their employer.
 
-## Pull Request Process
+## Adding TSC Members
+
+Upon unanimous vote, the TSC can appoint additional members to join the steering committee.
+
+The following criteria will always apply to the committee:
+- The TSC must always have at least 3 members
+- The TSC must always have an odd number of members.
+- The limitations on company representation described in the next section will apply at all times.
+
+## Limitations on Company Representation
+
+No more than one TSC seat may be held by employees of the same organization (or conglomerate, in the case of companies owning each other).
+
+If employers change because of job changes, acquisitions, or other events, in a way that would yield more than one seat being held by employees of the same organization, sufficient members of the committee must resign until only one employee of the same employer is left. If it is impossible to find sufficient members to resign, all employees of that organization will be removed and an appointment made with the remaining TSC members choosing the replacement.
+
+## Resignation from TSC
+
+If a member chooses to resign their seat on the TSC at any time and for any reason, the remaining TSC members can appoint a replacement according to the rules described above under "Adding TSC Members".
+
+## Removal from TSC
+
+If any TSC member is found to be in violation of the community's published Code of Conduct, they can be removed from the TSC through a unanimous vote of all TSC members in good standing.
+
+# Pull Request Process
 
 1. Create an [issue](https://github.com/sigstore/TSC/issues)
    outlining the fix or feature.
@@ -24,7 +49,7 @@ TSC members are listed in the TSC repository [README.md](README.md#members)
 8. If your pull request consists of more than one commit, please squash your
    commits as described in [Squash Commits](#Squash Commits)
 
-## Commit Message Guidelines
+# Commit Message Guidelines
 
 We follow the commit formatting recommendations found on [Chris Beams' How to Write a Git Commit Message article]((https://chris.beams.io/posts/git-commit/).
 
@@ -70,7 +95,7 @@ ensure issues are associated and closed when a pull request is merged.
 Please refer to [the github help page on message types](https://help.github.com/articles/closing-issues-using-keywords/)
 for a complete list of issue references.
 
-## Squash Commits
+# Squash Commits
 
 Should your pull request consist of more than one commit (perhaps due to
 a change being requested during the review cycle), please perform a git squash
@@ -113,7 +138,7 @@ to github):
     git push origin your-branch --force
 
 Alternatively, a core member can squash your commits within Github.
-## Code of Conduct
+# Code of Conduct
 
 TSC adheres to and enforces the [Contributor Covenant](http://contributor-covenant.org/version/1/4/) Code of Conduct.
 Please take a moment to read the [CODE_OF_CONDUCT.md](https://github.com/sigstore/TSC/blob/master/CODE_OF_CONDUCT.md) document.
