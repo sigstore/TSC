@@ -47,4 +47,4 @@ Meetings are also recorded and posted to the [sigstore YouTube channel](https://
 
 ## Charter
 
-The TSC is techincal charter is available here [docs/CHARTER.MD](https://github.com/sigstore/TSC/blob/main/docs/CHARTER.MD)
+The TSC is technical charter is available here [docs/CHARTER.MD](https://github.com/sigstore/TSC/blob/main/docs/CHARTER.MD)
