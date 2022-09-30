@@ -41,7 +41,7 @@ Meetings are also recorded and posted to the [sigstore YouTube channel](https://
 | --- | --- | --- |
 | Bob Callaway | bcallaway@google.com | Google |
 | Luke Hinds (TSC Chair) | lhinds@redhat.com | Red Hat |
-| Priya Wadhwa | pwadhwa@chainguard.dev | Chain Guard |
+| Priya Wadhwa | priya@chainguard.dev | Chain Guard |
 | Trevor Rosen | trevrosen@github.com | GitHub |
 | Santiago Torres-Arias | santiagotorres@purdue.edu | Purdue University |
 
