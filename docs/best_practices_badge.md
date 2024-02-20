@@ -12,7 +12,7 @@ sigstore
 
 #### What is a brief description of the project? 
 
-Sigstore is an open source project for improving software supply chain security. The Sigstore framework and tooling empowers software developers and consumers to securely sign and verify software artifacts such as release files, container images, binaries, software bills of materials (SBOMs), and more. Signatures are generated with ephemeral signing keys so there’s no need to manage keys. Signing events are recorded in a tamper-resistant public log so software developers can audit signing events.
+Sigstore is an open source project for improving software supply chain security. The Sigstore framework and tooling empowers software developers and consumers to securely sign and verify software artifacts such as release files, container images, binaries, software bills of materials (SBOMs), SLSA provenance, in-toto attestations and more. Signatures are generated with ephemeral signing keys so there’s no need to manage keys. Signing events are recorded in a tamper-resistant public log so software developers can audit signing events.
 
 #### What is the URL for the project (as a whole)? 
 
