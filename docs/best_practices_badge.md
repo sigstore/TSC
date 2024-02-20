@@ -8,7 +8,7 @@ Basics
 
 #### What is the human-readable name of the project? 
 
-sigstore
+Sigstore
 
 #### What is a brief description of the project? 
 
@@ -24,7 +24,7 @@ Sigstore is an open source project for improving software supply chain security.
 
 #### What programming language(s) are used to implement the project? 
 
-Go, Java, Python, Rust
+Go, Java, Python, Rust, Javascript
 
 #### What is the Common Platform Enumeration (CPE) name for the project (if it has one)? 
 
@@ -200,11 +200,11 @@ Each project within Sigstore is tested using idiomatic FLOSS testing tools for t
 
 #### The project MUST have a general policy (formal or not) that as major new functionality is added to the software produced by the project, tests of that functionality should be added to an automated test suite. 
 
-This is a general principle within sigstore, with evidence present across our repositories.
+This is a general principle within Sigstore, with evidence present across our repositories.
 
 #### The project MUST have evidence that the test\_policy for adding tests has been adhered to in the most recent major changes to the software produced by the project.
 
-This is a general principle within sigstore, with evidence present across our repositories.
+This is a general principle within Sigstore, with evidence present across our repositories.
 
 #### It is SUGGESTED that this policy on adding tests (see test\_policy) be documented in the instructions for change proposals. 
 
@@ -230,11 +230,11 @@ Our linting configs are stored in source control and can be audited for strictne
 
 #### The project MUST have at least one primary developer who knows how to design secure software. (See ‘details’ for the exact requirements.)
 
-Several of our maintainers work in security engineering departments (e.g. Google’s Open Source Security Team).
+Several of our maintainers work in security engineering departments (e.g. Google’s Open Source Security Team, GitHub's Package Security Team).
 
 #### At least one of the project's primary developers MUST know of common kinds of errors that lead to vulnerabilities in this kind of software, as well as at least one method to counter or mitigate each of them. 
 
-Several of our maintainers work in security engineering departments (e.g. Google’s Open Source Security Team).
+Several of our maintainers work in security engineering departments (e.g. Google’s Open Source Security Team, GitHub's Package Security Team).
 
 ### Use basic good cryptographic practices
 

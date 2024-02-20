@@ -52,7 +52,7 @@ In response to the specific questions raised in [OpenSSF TAC Issue 162](https://
 
     - Sigstore-rs: [Contributor data](https://github.com/sigstore/sigstore-rs/graphs/contributors)
 
-      - Maintainers from: Alibaba, Google, Red Hat, Stacklok, SUSE, Stacklok 
+      - Maintainers from: Alibaba, Google, Red Hat, Stacklok, SUSE
 
 - We follow security best practices (Scorecard, AllStar, Dependabot & CodeQL support, build pipelines automated through CI/CD, branch protection). For the services we operate, infrastructure is hardened, access for oncall engineers is on-demand with review, and we use the latest cloud technologies to manage infrastructure (GKE, Helm, Terraform)
 
